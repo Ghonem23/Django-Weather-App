@@ -1,2 +1,2 @@
 # Django-Weather-App
-This project is a Django web application that provides weather information for any location in the world using the OpenWeatherMap API. It also includes a tutorial that walks you through the whole process of creating the application.
+This project is a Django web application that provides weather information for any location in the world. It uses the OpenWeatherMap API to get real-time weather data, and it displays the data in a user-friendly interface. The project also includes a tutorial that walks you through the whole process of creating the application, from setting up the Django project to using the OpenWeatherMap API.
